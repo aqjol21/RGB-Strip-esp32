@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.env.windows": {
+    "PATH": "C:\\Users\\Akzhol\\.platformio\\penv\\Scripts;C:\\Users\\Akzhol\\.platformio\\penv;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;D:\\Program files\\Git\\cmd;C:\\Users\\Akzhol\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts\\;C:\\Users\\Akzhol\\AppData\\Local\\Programs\\Python\\Python37-32\\;C:\\Program Files\\Java\\jdk-11.0.2\\bin;C:\\Program Files\\JetBrains\\PyCharm Community Edition 2019.1.1\\bin;;D:\\Program files\\Microsoft VS Code\\bin;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;D:\\Program files\\Git\\cmd;C:\\Users\\Akzhol\\AppData\\Local\\Programs\\Python\\Python37-32\\Scripts\\;C:\\Users\\Akzhol\\AppData\\Local\\Programs\\Python\\Python37-32\\;C:\\Program Files\\Java\\jdk-11.0.2\\bin;C:\\Program Files\\JetBrains\\PyCharm Community Edition 2019.1.1\\bin;;D:\\Program files\\Microsoft VS Code\\bin",
+    "PLATFORMIO_CALLER": "vscode"
+  }
+}
